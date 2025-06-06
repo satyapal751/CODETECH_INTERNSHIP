@@ -1,9 +1,17 @@
-uccessfully performed Sentiment Analysis using TF-IDF vectorization and Logistic Regression on customer reviews.
+I successfully completed Task 2: Sentiment Analysis using the amazon_cells_labelled.txt dataset.
 
-The dataset was balanced with 500 positive and 500 negative samples.
+🔧 Technologies Used:
 
-After cleaning and vectorizing the text data, the model achieved an accuracy of 82%.
+Python
 
-The classification report showed balanced precision, recall, and F1-score for both classes (positive and negative).
+Natural Language Processing (NLP)
 
-The confusion matrix confirms that the model is performing well, with very few misclassifications.
+TF-IDF Vectorization
+
+Logistic Regression (Scikit-learn)
+
+📊 Model Accuracy: 82%
+📌 Cleaned and preprocessed text
+📌 Split data into training and testing
+📌 Built and evaluated the model
+📌 Visualized results using Confusion Matrix
