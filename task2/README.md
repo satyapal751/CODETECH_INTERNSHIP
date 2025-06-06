@@ -1,17 +1,11 @@
-I successfully completed Task 2: Sentiment Analysis using the amazon_cells_labelled.txt dataset.
+🎯 CodTech Internship – Task 2 Completed
 
-🔧 Technologies Used:
+For Task 2 of my internship at CodTech, I worked on a real-world problem: understanding customer opinions using Sentiment Analysis.
 
-Python
+Using a dataset of customer reviews, I:
+🧹 Cleaned and preprocessed text data
+🧠 Converted text into numbers using TF-IDF
+⚙ Trained a Logistic Regression model to classify reviews as positive or negative
+📊 Achieved 82% accuracy
 
-Natural Language Processing (NLP)
-
-TF-IDF Vectorization
-
-Logistic Regression (Scikit-learn)
-
-📊 Model Accuracy: 82%
-📌 Cleaned and preprocessed text
-📌 Split data into training and testing
-📌 Built and evaluated the model
-📌 Visualized results using Confusion Matrix
+This task helped me understand how companies can use NLP to make better decisions based on customer feedback. It was exciting to see how machine learning can actually “read” reviews and predict sentiment!
